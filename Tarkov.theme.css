@@ -1,0 +1,89 @@
+/**
+ * @name Tarkov
+ * @author ClearVision Team
+ * @version 6.3.0
+ * @description Highly customizable and beautiful theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite 7pNUC9C
+*/
+
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+
+:root {
+  --main-color: #1F1F1F;
+  --hover-color: #D9D7C8;
+  --success-color: #316432;
+  --danger-color: #AD0403;
+  --url-color: #C98900;
+  --background-image: url('https://i.imgur.com/7G7AlHT.jpg');
+  --background-shading: 0%;
+  --background-position: center;
+  --background-size: cover;
+  --background-repeat: repeat;
+  --background-attachment: fixed;
+  --background-brightness: 300%;
+  --background-contrast: 100%;
+  --background-saturation: 100%;
+  --background-grayscale: 0%;
+  --background-invert: 0%;
+  --background-blur: 0px;
+  --background-overlay: rgb(0,0,0,0.37);
+  --user-popout-image: url('https://i.imgur.com/Af4J45t.png');
+  --user-popout-position: center;
+  --user-popout-size: cover;
+  --user-popout-repeat: repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 100%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 0px;
+  --user-modal-image: url('https://i.imgur.com/0Bdhrob.png');
+  --user-modal-position: center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 150%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 100%;
+  --user-modal-grayscale: 0%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 3px;
+  --home-icon: url('https://clearvision.github.io/icons/discord.svg');
+  --home-position: center;
+  --home-size: 40px;
+  --channel-unread: #8DE736;
+  --channel-color: rgb(223,225,226,1);
+  --muted-color: rgb(156,154,141,0.36);
+  --online-color: #8DE736;
+  --idle-color: #A45B1C;
+  --dnd-color: #982929;
+  --streaming-color: #1FA1DE;
+  --offline-color: #808080;
+  --main-font: Bender;
+  --code-font: Bender;
+  --channels-width: 220px;
+  --members-width: 240px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+}
+
+/* Any custom CSS below here */
+
+
